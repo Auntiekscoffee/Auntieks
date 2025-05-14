@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Auntie K’s Coffee</title>
+  <title>Auntie K’s</title>
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Open+Sans&display=swap" rel="stylesheet">
   <style>
     body {
@@ -14,7 +15,6 @@
     }
     header {
       background: #6f4e37;
-      color: white;
       padding: 1em 0;
       text-align: center;
     }
@@ -24,8 +24,9 @@
     }
     header h1 {
       font-family: 'Pacifico', cursive;
-      font-size: 2.2em;
+      font-size: 2.5em;
       margin: 0.2em 0;
+      color: #e8a6b1; /* Soft pink */
     }
     nav {
       background: #d9b382;
@@ -72,8 +73,8 @@
 
   <header>
     <img src="logo.png" alt="Auntie K’s Logo">
-    <h1>Auntie K’s Coffee</h1>
-    <p>Bonifay, Florida</p>
+    <h1>Auntie K’s</h1>
+    <p style="color:white;">Bonifay, Florida</p>
   </header>
 
   <nav>
@@ -115,7 +116,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Auntie K’s Coffee. All rights reserved.</p>
+    <p>&copy; 2025 Auntie K’s. All rights reserved.</p>
   </footer>
 
 </body>
