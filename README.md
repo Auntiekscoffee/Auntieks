@@ -71,7 +71,7 @@
 <body>
 
   <header>
-    <img src="logo.png" alt="Auntie K’s Logo">
+ 224B2BFA-370A-4FE0-A0A7-BEE0ECC8DF25.png   <img src="logo.png" alt="Auntie K’s Logo">
     <h1>Auntie K’s</h1>
     <p style="color:white;">Bonifay, Florida</p>
   </header>
