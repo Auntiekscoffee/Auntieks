@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Auntie K’s</title>
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Open+Sans&display=swap" rel="stylesheet">
   <style>
@@ -9,11 +10,11 @@
       font-family: 'Open Sans', sans-serif;
       margin: 0;
       padding: 0;
-      background: #fff8f1;
-      color: #4b2e2e;
+      background: #fffaf6;
+      color: #1e1e1e;
     }
     header {
-      background: #6f4e37;
+      background: #1e1e1e;
       padding: 1em 0;
       text-align: center;
     }
@@ -23,18 +24,18 @@
     }
     header h1 {
       font-family: 'Pacifico', cursive;
-      font-size: 2.5em;
+      font-size: 2.8em;
       margin: 0.2em 0;
-      color: #e8a6b1; /* Soft pink */
+      color: #e91e63;
     }
     nav {
-      background: #d9b382;
+      background: #f8cfd5;
       padding: 0.7em;
       text-align: center;
     }
     nav a {
       margin: 0 1em;
-      color: #4b2e2e;
+      color: #1e1e1e;
       text-decoration: none;
       font-weight: bold;
     }
@@ -45,16 +46,16 @@
     }
     section h2 {
       font-family: 'Pacifico', cursive;
-      color: #6f4e37;
+      color: #e91e63;
     }
     .social-icons a {
       margin: 0 10px;
       text-decoration: none;
       font-weight: bold;
-      color: #c97e94;
+      color: #e91e63;
     }
     footer {
-      background: #6f4e37;
+      background: #1e1e1e;
       color: white;
       text-align: center;
       padding: 1em 0;
@@ -71,7 +72,7 @@
 <body>
 
   <header>
- 224B2BFA-370A-4FE0-A0A7-BEE0ECC8DF25.png   <img src="logo.png" alt="Auntie K’s Logo">
+    <img src="logo.png" alt="Auntie K’s Logo">
     <h1>Auntie K’s</h1>
     <p style="color:white;">Bonifay, Florida</p>
   </header>
