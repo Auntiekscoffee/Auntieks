@@ -1,5 +1,3 @@
-<img src="images/logo.png" alt="Auntie K’s Coffee Shop Logo" width="200"> ![224B2BFA-370A-4FE0-A0A7-BEE0ECC8DF25 2](https://github.com/user-attachments/assets/e14bc039-f1b5-4227-b63b-cc7019c96571)
-
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
